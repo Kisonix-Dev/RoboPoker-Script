@@ -1,2 +1,2 @@
 # RoboPoker
-Скрипт для игры в покер для Offline
+![logo](img/logo.png)
