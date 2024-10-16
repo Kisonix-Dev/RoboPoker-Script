@@ -7,11 +7,13 @@
 
 Данный скрипт будет доступен как на Русском языке, так и на Английском языке.
 
+## Скриншоты
+<p align="center"><img src="img/image-terminal.png"></p>
 
-## Важно!
+## Перед запуском
 Для коректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
-ИЗ каталога: /robo-poker/audio
-В каталог: /usr/share/sounds/freedesktop/stereo/adadad.mp3
+<p>ИЗ каталога: /robo-poker/audio</p>
+<p>В каталог: /usr/share/sounds/freedesktop/stereo/adadad.mp3</p>
 А так-же установить пакет: pulseaudio-utils.
 Скопировать аудиофайлы можно при помощи пакета: Midnight commander.
 Скрипт был проверен только в дистре: Ubuntu. (Не кидайтесь тапками).
@@ -29,8 +31,6 @@ sudo apt-get install pulseaudio-utils
 ```
 sudo apt-get update & upgrade
 ```
-
-<p align="center"><img src="img/image-terminal.png"></p>
 
 ## ENG 
 Random-sequential script for choosing "options" in poker (Texas Hold'em). 
