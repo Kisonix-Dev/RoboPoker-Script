@@ -9,6 +9,7 @@
 
 ## Скриншоты
 <p align="center"><img src="img/image-terminal.png"></p>
+<p align="center"><img src="img/image-image.png"></p>
 
 ## Перед запуском
 Для корректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
