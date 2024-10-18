@@ -1,0 +1,128 @@
+Raise 2000
+Call
+Raise 3000
+Call
+Raise 4000
+Call
+Raise 5000
+Call
+Raise 6000
+Call
+Raise 8000
+Call
+Raise 10.000
+Call
+Raise 15.000
+Call
+Raise 20.000
+Call
+Raise 25.000
+Call
+Raise 30.000
+Call
+Raise 35.000
+Call
+Raise 40.000
+Call
+Raise 45.000
+Call
+Raise 50.000
+Call
+Raise 55.000
+Call
+Raise 60.000
+Call
+Raise 65.000
+Call
+Raise 70.000
+Call
+Raise 75.000
+Call
+Raise 80.000
+Call
+Raise 95.000
+Call
+Raise 100.000
+Call
+Raise 110.000
+Call
+Raise 120.000
+Call
+Raise 130.000
+Call
+Raise 140.000
+Call
+Raise 150.000
+Call
+Raise 160.000
+Call
+Raise 170.000
+Call
+Raise 180.000
+Call
+Raise 190.000
+Call
+Raise 200.000
+Call
+Raise 210.000
+Call
+Raise 220.000
+Call
+Raise 230.000
+Call
+Raise 240.000
+Call
+Raise 250.000
+Call
+Raise 260.000
+Call
+Raise 270.000
+Call
+Raise 280.000
+Call
+Raise 290.000
+Call
+Raise 300.000
+Call
+Raise 310.000
+Call
+Raise 320.000
+Call
+Raise 330.000
+Call
+Raise 340.000
+Call
+Raise 350.000
+Call
+Raise 360.000
+Call
+Raise 370.000
+Call
+Raise 380.000
+Call
+Raise 390.000
+Call
+Raise 400.000
+Call
+Raise 400.000
+Call
+Raise 410.000
+Call
+Raise 420.000
+Call
+Raise 430.000
+Call
+Raise 440.000
+Call
+Raise 450.000
+Call
+Raise 460.000
+Call
+Raise 470.000
+Call
+Raise 480.000
+Call
+Raise 490.000
+Call
+Raise 500.000
+Call
