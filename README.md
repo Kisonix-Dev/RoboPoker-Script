@@ -11,7 +11,7 @@
 <p align="center"><img src="github/img/image-terminal.png"></p>
 <p align="center"><img src="github/img/image.jpg"></p>
 
-#### Видео демонстрация: [Web-service](#)
+#### Видео демонстрация: [Скоро](#)
 
 ## Перед запуском
 Для корректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
