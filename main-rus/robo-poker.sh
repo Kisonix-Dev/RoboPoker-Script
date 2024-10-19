@@ -46,17 +46,17 @@ echo -e "\E[33m ========================================"
   select opt in Играть-с-ожиданием Играть-без-ожидания Выход; do
   case $opt in
     Играть-с-ожиданием)
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       clear
       source game.sh
       ;;
     Играть-без-ожидания)
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       clear
       source game-version-without-waiting.sh
       ;;
     Выход) 
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       exit
       ;;
     *) 

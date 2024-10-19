@@ -46,17 +46,17 @@ echo -e "\E[33m ========================================"
   select opt in Play-with-expectation Play-without-waiting Exit; do
   case $opt in
     Play-with-expectation)
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       clear
       source game.sh
       ;;
     Play-without-waiting)
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       clear
       source game-version-without-waiting.sh
       ;;
     Exit) 
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       exit
       ;;
     *) 

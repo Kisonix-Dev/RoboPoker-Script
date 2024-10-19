@@ -9,13 +9,13 @@ clear
 select opt in Читать-документацию Главное-меню; do
   case $opt in
     Читать-документацию)
-    paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+    paplay /usr/share/sounds/freedesktop/stereo/click.mp3
     clear
       echo -e "\E[33m ============================================================"
       tput sgr0
       echo -e "\E[32m \033[1m ♦️  ♣️  ♥️  ♠️    Документация RoboPoker   ♦️  ♣️  ♥️  ♠️"
       tput sgr0
-      paplay /usr/share/sounds/freedesktop/stereo/adadad.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/alarm.mp3
       echo
       sleep 0.2
       echo "1. Запустите скрипт (RoboPoker)."
@@ -56,7 +56,7 @@ select opt in Читать-документацию Главное-меню; do
       tput sgr0
       ;;
     Главное-меню)
-      paplay /usr/share/sounds/freedesktop/stereo/asasas.mp3
+      paplay /usr/share/sounds/freedesktop/stereo/click.mp3
       clear
       source robo-poker.sh 
       ;;
