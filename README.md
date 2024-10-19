@@ -19,7 +19,8 @@
 <p>В каталог: /usr/share/sounds/freedesktop/stereo</p>
 А так-же установить пакет: pulseaudio-utils.
 Скопировать аудиофайлы можно при помощи пакета: Midnight commander.
-Скрипт был проверен только в дистре: Ubuntu. (Не кидайтесь тапками).
+Скрипт был проверен только в дистре: Ubuntu. (Не кидайтесь пингвинами).
+Для ОС Windows, можете использовать технологию: WSL. 
 
 ### Пакеты
 1. Midnight commander.
@@ -49,7 +50,8 @@ For the script to work correctly, you need to copy 2 audio files.
 <p>TO the catalog: /usr/share/sounds/freedesktop/stereo</p>
 And also install the package: pulseaudio-utils.
 You can copy audio files using the package: Midnight commander.
-The script was tested only in the distro: Ubuntu. (Don't throw slippers).
+The script was tested only in the distro: Ubuntu. (Don't throw penguins).
+For Windows OS, you can use the technology: WSL.
 
 ### Packages
 1. Midnight commander.
