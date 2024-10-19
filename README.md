@@ -8,8 +8,8 @@
 Данный скрипт будет доступен как на Русском языке, так и на Английском языке.
 
 ## Скриншоты
-<p align="center"><img src="img/image-terminal.png"></p>
-<p align="center"><img src="img/image.jpg"></p>
+<p align="center"><img src="github/img/image-terminal.png"></p>
+<p align="center"><img src="github/img/image.jpg"></p>
 
 ## Перед запуском
 Для корректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
