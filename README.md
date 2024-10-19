@@ -5,7 +5,7 @@
 Скрипт берёт рандомное действие либо число из базы данных и выводит его на экран.
 Таким образом, вы сможете играть в покер, один дома. 
 
-Данный скрипт будет доступен как на Русском языке, так и на Английском языке.
+Смотрите документацию по скрипту: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE)
 
 ## Скриншоты
 <p align="center"><img src="github/img/image-terminal.png"></p>
@@ -39,7 +39,7 @@ Random-sequential script for choosing "options" in poker (Texas Hold'em).
 The script takes a random action or number from the database and displays it on the screen. 
 So you can play poker, alone at home.
 
-This script will be available in Russian and English.
+See the script documentation: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/Start)
 
 ## Before launch
 For the script to work correctly, you need to copy 2 audio files.
