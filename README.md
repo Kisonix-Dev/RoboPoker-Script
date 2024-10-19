@@ -1,4 +1,4 @@
-<p align="center"><img src="img/logo.png" width="256"></p>
+<p align="center"><img src="github/img/logo.png" width="256"></p>
 
 # RoboPoker
 Рандомно-последовательный скрипт для выбора "опций" в покере (Техасский холдем).
