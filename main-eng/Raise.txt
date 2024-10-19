@@ -20,4 +20,3 @@ Raise 75.000
 Raise 80.000
 Raise 95.000
 Raise 100.000
-
