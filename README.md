@@ -14,13 +14,13 @@
 #### Видео демонстрация: [Скоро](#)
 
 ## Перед запуском
-Для корректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
+<pД>ля корректной работы скрипта, вам необходимо скопировать 2 аудиофайла.</p>
 <p>ИЗ каталога: /robo-poker/audio</p>
 <p>В каталог: /usr/share/sounds/freedesktop/stereo</p>
-А так-же установить пакет: pulseaudio-utils.
-Скопировать аудиофайлы можно при помощи пакета: Midnight commander.
-Скрипт был проверен только в дистре: Ubuntu. (Не кидайтесь пингвинами).
-Для ОС Windows, можете использовать технологию: WSL. 
+<p>А так-же установить пакет: pulseaudio-utils.</p>
+<p>Скопировать аудиофайлы можно при помощи пакета: Midnight commander.</p>
+<p>Скрипт был проверен только в дистре: Ubuntu. (Не кидайтесь пингвинами).</p>
+<p>Для ОС Windows, можете использовать технологию: WSL.</p>
 
 ### Пакеты
 1. Midnight commander.
@@ -45,13 +45,13 @@ So you can play poker, alone at home.
 See the script documentation: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/Start)
 
 ## Before launch
-For the script to work correctly, you need to copy 2 audio files.
+<p>For the script to work correctly, you need to copy 2 audio files.</p>
 <p>FROM the catalog: /robo-poker/audio</p>
 <p>TO the catalog: /usr/share/sounds/freedesktop/stereo</p>
-And also install the package: pulseaudio-utils.
-You can copy audio files using the package: Midnight commander.
-The script was tested only in the distro: Ubuntu. (Don't throw penguins).
-For Windows OS, you can use the technology: WSL.
+<p>And also install the package: pulseaudio-utils.</p>
+<p>You can copy audio files using the package: Midnight commander.</p>
+<p>The script was tested only in the distro: Ubuntu. (Don't throw penguins).</p>
+<p>For Windows OS, you can use the technology: WSL.</p>
 
 ### Packages
 1. Midnight commander.
