@@ -7,9 +7,11 @@
 
 Смотрите документацию по скрипту: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE)
 
-## Скриншоты
+## Демонстрация скрипта
 <p align="center"><img src="github/img/image-terminal.png"></p>
 <p align="center"><img src="github/img/image.jpg"></p>
+
+#### Видео демонстрация: [Web-service](#)
 
 ## Перед запуском
 Для корректной работы скрипта, вам необходимо скопировать 2 аудиофайла. 
