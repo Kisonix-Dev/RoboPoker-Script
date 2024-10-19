@@ -9,7 +9,7 @@
 
 ## Демонстрация скрипта
 <p align="center"><img src="github/img/image-terminal.png"></p>
-<p align="center"><img src="github/img/image.jpg"></p>
+<p align="center"><img src="github/img/image.png"></p>
 
 #### Видео демонстрация: [Скоро](#)
 
