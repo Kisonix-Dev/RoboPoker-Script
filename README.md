@@ -27,7 +27,7 @@ sudo dpkg -i RoboPoker-rus.deb
 <p>Чтобы удалить скрипт, воспользуйтесь командой в терминале:</p> 
 
 ```
-sudo apt-get remove RoboPoker
+sudo apt-get remove robopoker
 ```
 
 ### Зависимости
@@ -58,13 +58,15 @@ Documentation: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/Start)
 <p>The script was compiled into a deb package (Don't throw penguins).</p>
 <p>For Windows OS, you can use a separate version of the program! (COMING SOON). Or WSL.</p>
 <p>You no longer need to install the script manually and transfer audio! Use the command in the terminal:</p>
+
 ```
 sudo dpkg -i RoboPoker-eng.deb
 ```
 <p>The script will be installed on your system as a program and a shortcut to run the script will appear in the menu.</p>
 <p>To remove the script, use the command in the terminal:</p> 
+
 ```
-sudo apt-get remove RoboPoker
+sudo apt-get remove robopoker
 ```
 
 ### Dependencies
