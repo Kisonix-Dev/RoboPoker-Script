@@ -24,7 +24,7 @@
 sudo dpkg -i RoboPoker-rus.deb
 ```
 <p>Скрипт установится в вашей системе как программа и в меню появится ярлык для запуска скрипта.</p>
-<p>Чтобы удалить скрипт, воспользуйтесь командой в терминале:</p> 
+<p>Чтобы удалить скрипт из вашей системы, воспользуйтесь командой в терминале:</p> 
 
 ```
 sudo apt-get remove robopoker
@@ -63,7 +63,7 @@ Documentation: [WIKI](https://github.com/Kisonix-Dev/RoboPoker/wiki/Start)
 sudo dpkg -i RoboPoker-eng.deb
 ```
 <p>The script will be installed on your system as a program and a shortcut to run the script will appear in the menu.</p>
-<p>To remove the script, use the command in the terminal:</p> 
+<p>To remove the script from your system, use the command in the terminal:</p> 
 
 ```
 sudo apt-get remove robopoker
