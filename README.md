@@ -1,4 +1,4 @@
-<p align="center"><img src="github/img/logo.png"></p>
+<p align="center"><img src="[github/img/logo.png](https://github.com/Kisonix-Dev/RoboPoker-Script/blob/main/.github/img/logo.png?raw=true)"></p>
 
 # RoboPoker
 
@@ -10,8 +10,8 @@
 
 ## Демонстрация скрипта
 
-<p align="center"><img src="github/img/image-terminal.png"></p>
-<p align="center"><img src="github/img/image.png"></p>
+<p align="center"><img src="[github/img/image-terminal.png](https://github.com/Kisonix-Dev/RoboPoker-Script/blob/main/.github/img/image-terminal.png?raw=true)"></p>
+<p align="center"><img src="[github/img/image.png](https://github.com/Kisonix-Dev/RoboPoker-Script/blob/main/.github/img/image.png?raw=true)"></p>
 
 ## Перед запуском
 
