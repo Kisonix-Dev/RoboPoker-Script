@@ -1,7 +1,7 @@
 <p align="center"><img src=".github/img/logo.png"></p>
 
-[![C#](https://img.shields.io/badge/-C%23-D9C6F0?style=for-the-badge&logo=c-sharp&logoColor=black&logoWidth=30)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/-.NET-C9D9F2?style=for-the-badge&logo=dotnet&logoColor=black&logoWidth=30)](https://dotnet.microsoft.com/)
+[![Linux](https://img.shields.io/badge/Linux-B4CDE6?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-A5D6A7?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
 ---
 
 Random-sequential script for choosing "options" in poker (Texas Hold'em).
